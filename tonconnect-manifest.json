@@ -1,7 +1,7 @@
 {
-    "url": "https://1813-2a0e-41d-27dd-0-e465-bbb8-f95c-599d.ngrok-free.app/Console_2",
+    "url": "https://consoleappbot-production.up.railway.app",
     "name": "ConsoleGameApp_Bot",
     "iconUrl": "https://raw.githubusercontent.com/Mett11/tg_console_repo/refs/heads/main/connico.png",
-    "redirectUrl": "https://1813-2a0e-41d-27dd-0-e465-bbb8-f95c-599d.ngrok-free.app/Console_2/wallet.php"
+    "redirectUrl": "https://consoleappbot-production.up.railway.app/wallet.php"
 
 }
